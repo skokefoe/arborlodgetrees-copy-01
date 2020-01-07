@@ -11,12 +11,7 @@ about:
     is_scrolly: false
 contact_methods:
   enabled: true
-  methods_col1:
-  - type: contact_with_text
-    template: contact_with_text
-    title: Address
-    icon: fa-map-marker
-    text: "Untitled Corp  \n1234 Fictional Road  \nSuite 5432  \nNashville, TN 00000"
+  methods_col1: []
   methods_col2:
   - type: contact_with_link
     template: contact_with_link
