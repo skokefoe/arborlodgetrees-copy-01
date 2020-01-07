@@ -9,9 +9,6 @@ sidebar:
   enabled: false
   side: left
 layout: page
-menu:
-  footer:
-    weight: 1
 published: false
 
 ---
