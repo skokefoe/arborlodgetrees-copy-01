@@ -13,14 +13,6 @@ layouts:
   title: Right Sidebar
   url: "/right-sidebar"
   weight: "2"
-- identifier: normal3
-  title: No Sidebar
-  url: "/no-sidebar"
-  weight: "3"
-- identifier: submenu
-  title: Submenu
-  url: "#"
-  weight: "4"
 submenu: []
 footer:
 - identifier: normal8
