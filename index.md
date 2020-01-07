@@ -1,8 +1,9 @@
 ---
 title: home
 banner:
-  title: Amet donec nullam fermentum
-  subtitle: Sed magna in pharetra ultricies dolor sit consequat magna.
+  title: The Arbor Lodge Tree Team
+  subtitle: The best time to plant a tree was 20 years ago. The second best time is
+    now.
   actions:
   - label: Learn More
     url: "/no-sidebar"
