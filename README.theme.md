@@ -1,3 +1,7 @@
+---
+published: false
+
+---
 # Archetype
 
 A multi-layout theme with posts for Stackbit. [Live Demo](https://themes.stackbit.com/demos/archetype/blue)
