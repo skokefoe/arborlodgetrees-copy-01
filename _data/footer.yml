@@ -3,12 +3,9 @@ about:
   enabled: true
   title: About the Tree Team
   text: The Arbor Lodge Tree Team works to plant, preserve, and protect trees in this
-    neighborhood of Portland, Oregon.
-  actions:
-  - label: Learn More
-    url: "/no-sidebar"
-    is_primary: false
-    is_scrolly: false
+    neighborhood of Portland, Oregon. We welcome new members and meet on the second
+    Wednesday of every month in Arbor Lodge.
+  actions: []
 contact_methods:
   enabled: true
   methods_col1: []
